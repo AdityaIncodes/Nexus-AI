@@ -1,0 +1,3 @@
+npm install firebase @google/generative-ai
+npm install react-icons
+npm install clsx
