@@ -1,3 +1,5 @@
-npm install firebase @google/generative-ai
-npm install react-icons
-npm install clsx
+{
+  "name": "nexus-ai",
+  "version": "1.0.0",
+  "private": true
+}
