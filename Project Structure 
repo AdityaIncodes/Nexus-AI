@@ -1,0 +1,18 @@
+nexus-ai/
+├── app/
+│   ├── page.tsx
+│   ├── dashboard/page.tsx
+│   ├── chat/page.tsx
+│   └── api/chat/route.ts
+├── components/
+│   ├── Navbar.tsx
+│   ├── Sidebar.tsx
+│   ├── ChatBox.tsx
+│   └── PromptInput.tsx
+├── lib/
+│   ├── firebase.ts
+│   └── gemini.ts
+├── types/
+├── public/
+├── package.json
+└── tailwind.config.ts
