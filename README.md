@@ -1,2 +1,2 @@
 # Nexus-AI
-Ai saas Productivity Platform 
+AI SaaS Productivity Platform 
