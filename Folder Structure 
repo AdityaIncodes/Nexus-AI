@@ -1,0 +1,8 @@
+nexus-ai/
+│
+├── app/
+├── components/
+├── lib/
+├── public/
+├── README.md
+└── package.json
